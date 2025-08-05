@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# NFT Estate Decentralized 
 
 ## Technology Stack & Tools
 
@@ -12,6 +12,7 @@
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
+
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
@@ -29,3 +30,7 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+
+
+emmaculate_eth 
